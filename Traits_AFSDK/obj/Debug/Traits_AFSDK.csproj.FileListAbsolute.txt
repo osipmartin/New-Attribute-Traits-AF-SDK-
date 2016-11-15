@@ -6,3 +6,11 @@ c:\users\pmartin\documents\visual studio 2015\Projects\Traits_AFSDK\Traits_AFSDK
 c:\users\pmartin\documents\visual studio 2015\Projects\Traits_AFSDK\Traits_AFSDK\obj\Debug\Traits_AFSDK.csprojResolveAssemblyReference.cache
 c:\users\pmartin\documents\visual studio 2015\Projects\Traits_AFSDK\Traits_AFSDK\obj\Debug\Traits_AFSDK.exe
 c:\users\pmartin\documents\visual studio 2015\Projects\Traits_AFSDK\Traits_AFSDK\obj\Debug\Traits_AFSDK.pdb
+C:\Users\pmartin\Documents\DSE\Blogs\New Attribute Traits\New-Attribute-Traits-AF-SDK-\Traits_AFSDK\bin\Debug\Traits_AFSDK.exe.config
+C:\Users\pmartin\Documents\DSE\Blogs\New Attribute Traits\New-Attribute-Traits-AF-SDK-\Traits_AFSDK\obj\Debug\Traits_AFSDK.exe
+C:\Users\pmartin\Documents\DSE\Blogs\New Attribute Traits\New-Attribute-Traits-AF-SDK-\Traits_AFSDK\obj\Debug\Traits_AFSDK.pdb
+C:\Users\pmartin\Documents\DSE\Blogs\New Attribute Traits\New-Attribute-Traits-AF-SDK-\Traits_AFSDK\bin\Debug\Traits_AFSDK.exe
+C:\Users\pmartin\Documents\DSE\Blogs\New Attribute Traits\New-Attribute-Traits-AF-SDK-\Traits_AFSDK\bin\Debug\Traits_AFSDK.pdb
+C:\Users\pmartin\Documents\DSE\Blogs\New Attribute Traits\New-Attribute-Traits-AF-SDK-\Traits_AFSDK\bin\Debug\OSIsoft.AFSDK.dll
+C:\Users\pmartin\Documents\DSE\Blogs\New Attribute Traits\New-Attribute-Traits-AF-SDK-\Traits_AFSDK\bin\Debug\OSIsoft.AFSDK.xml
+C:\Users\pmartin\Documents\DSE\Blogs\New Attribute Traits\New-Attribute-Traits-AF-SDK-\Traits_AFSDK\obj\Debug\Traits_AFSDK.csprojResolveAssemblyReference.cache
