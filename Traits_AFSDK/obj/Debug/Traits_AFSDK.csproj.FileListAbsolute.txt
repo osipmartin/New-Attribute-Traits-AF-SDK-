@@ -1,0 +1,8 @@
+c:\users\pmartin\documents\visual studio 2015\Projects\Traits_AFSDK\Traits_AFSDK\bin\Debug\Traits_AFSDK.exe.config
+c:\users\pmartin\documents\visual studio 2015\Projects\Traits_AFSDK\Traits_AFSDK\bin\Debug\Traits_AFSDK.exe
+c:\users\pmartin\documents\visual studio 2015\Projects\Traits_AFSDK\Traits_AFSDK\bin\Debug\Traits_AFSDK.pdb
+c:\users\pmartin\documents\visual studio 2015\Projects\Traits_AFSDK\Traits_AFSDK\bin\Debug\OSIsoft.AFSDK.dll
+c:\users\pmartin\documents\visual studio 2015\Projects\Traits_AFSDK\Traits_AFSDK\bin\Debug\OSIsoft.AFSDK.xml
+c:\users\pmartin\documents\visual studio 2015\Projects\Traits_AFSDK\Traits_AFSDK\obj\Debug\Traits_AFSDK.csprojResolveAssemblyReference.cache
+c:\users\pmartin\documents\visual studio 2015\Projects\Traits_AFSDK\Traits_AFSDK\obj\Debug\Traits_AFSDK.exe
+c:\users\pmartin\documents\visual studio 2015\Projects\Traits_AFSDK\Traits_AFSDK\obj\Debug\Traits_AFSDK.pdb
